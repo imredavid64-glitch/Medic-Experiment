@@ -1,0 +1,11 @@
+Patient_ID,Age,Diagnosis_Code,Number_Procedures,Discharge_Destination,Payer,Readmitted_30Days,Discharge_Notes
+1001,65,I21.9,1,Home,Medicare,1,Post-discharge home care inadequate; readmitted.
+1002,72,J18.9,0,SNF,Medicare,0,Stable transfer to skilled nursing facility.
+1003,54,E11.9,2,Home,Private,0,Successful self-management of diabetic condition.
+1004,81,I50.9,1,Rehab,Medicare,1,High complexity geriatric case; readmission likely.
+1005,45,K57.3,1,Home,Medicaid,0,Routine recovery after surgical intervention.
+1006,68,I25.1,3,Home,Private,0,Complex procedure; successful home recovery.
+1007,77,N17.9,1,Home,Medicare,1,Acute renal failure; requires specialized follow-up.
+1008,59,M17.11,2,Home,Private,0,Standard joint recovery; follow-up scheduled.
+1009,63,J44.1,0,Home,Medicare,0,COPD management successful; outpatient care.
+1010,70,I21.9,1,Home,Medicare,0,Myocardial infarction recovery within parameters.

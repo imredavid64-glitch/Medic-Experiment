@@ -1,0 +1,16 @@
+age,sex,bmi,children,smoker,region,charges,Risk_Assessment
+19,female,27.9,0,yes,southwest,16884.924,High cost due to smoking status; low BMI risk.
+18,male,33.77,1,no,southeast,1725.5523,Obesity risk present; non-smoker discount applies.
+28,male,33,3,no,southeast,4449.462,Family coverage increase; BMI requires monitoring.
+33,male,22.705,0,no,northwest,21984.47061,High baseline charges; investigate regional pricing.
+32,male,28.88,0,no,northwest,3866.8552,Healthy profile; moderate BMI; standard premium.
+31,female,25.74,0,no,southeast,3756.6216,Stable health markers; no children recorded.
+46,female,33.44,1,no,southeast,8240.5896,Age and BMI synergistically increasing costs.
+37,female,27.74,3,no,northwest,7281.5056,Multi-child family coverage; regional rate applied.
+37,male,29.83,2,no,northeast,6406.4107,Northeast regional adjustment; healthy status.
+60,female,25.84,0,no,northwest,28923.13692,Significant age-related premium increase.
+25,male,26.22,0,no,northeast,2721.3208,Young adult; low-risk lifestyle; basic coverage.
+62,female,26.29,0,yes,southeast,27808.7251,High risk due to age and smoking; high charges.
+23,male,34.4,0,no,southwest,1826.843,Young adult with high BMI; non-smoker.
+56,female,39.82,0,no,southeast,11090.7178,Significant obesity risk; southeastern regional rate.
+27,male,42.13,0,yes,southeast,39611.7577,Maximum risk synergy; smoker with morbid obesity.

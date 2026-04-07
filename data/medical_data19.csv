@@ -1,0 +1,13 @@
+Session_ID,Time_UTC,HR_Hz,Temp_C,EDA_uS,BVP,Accel_X,Accel_Y,Accel_Z,Stress_Level,Sensor_Notes
+201,1609459200,72.5,32.4,0.15,12.4,0.02,-0.01,0.98,low,Baseline resting state; normal EDA.
+201,1609459201,72.8,32.4,0.16,11.9,0.03,0.00,0.97,low,Consistent skin temperature; stable BVP.
+201,1609459202,73.1,32.5,0.15,13.1,0.02,0.01,0.98,low,Normal heart rate variability observed.
+201,1609459203,75.4,32.5,0.22,15.6,0.12,0.05,0.95,medium,Electrodermal activity rising; mild stress.
+201,1609459204,78.9,32.6,0.35,18.2,0.15,0.08,0.92,medium,Heart rate increase correlated with EDA peak.
+201,1609459205,82.4,32.6,0.48,22.4,0.18,0.12,0.88,high,Acute sympathetic activation detected.
+201,1609459206,85.2,32.7,0.55,25.1,0.22,0.15,0.85,high,Significant BVP fluctuation; high stress level.
+201,1609459207,88.1,32.7,0.62,28.4,0.25,0.18,0.82,high,Peak heart rate during induction session.
+201,1609459208,86.5,32.8,0.58,24.2,0.20,0.14,0.86,high,Slow recovery initiated; temperature high.
+201,1609459209,83.2,32.8,0.45,20.1,0.16,0.10,0.89,medium,Parasympathetic rebound starting.
+201,1609459210,79.8,32.7,0.32,16.8,0.10,0.05,0.94,medium,Heart rate stabilizing after stressor.
+201,1609459211,76.4,32.7,0.25,14.2,0.05,0.02,0.97,low,Full recovery to baseline physiological state.

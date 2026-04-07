@@ -1,0 +1,2 @@
+Actuarial Foundations of Medical Insurance Expenditures
+Predicting annual healthcare costs is a vital task for insurance providers and public health administrators, facilitating the alignment of premiums with real-world risk.

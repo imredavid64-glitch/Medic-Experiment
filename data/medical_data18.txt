@@ -1,0 +1,2 @@
+Multi-modal Physiological Monitoring and Wearable Sensors
+The frontier of medical informatics lies in the integration of continuous physiological signals.

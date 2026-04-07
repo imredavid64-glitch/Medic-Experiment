@@ -1,0 +1,16 @@
+Clump_Thickness,Uniformity_Size,Uniformity_Shape,Marginal_Adhesion,Epithelial_Size,Bare_Nuclei,Bland_Chromatin,Normal_Nucleoli,Mitoses,Class,Pathology_Description
+5,1,1,1,2,1,3,1,1,2,Benign cellular structure; normal cell distribution.
+5,4,4,5,7,10,3,2,1,2,Borderline malignancy risk; monitor for morphological changes.
+3,1,1,1,2,2,3,1,1,2,Slight pleomorphism; likely benign.
+6,8,8,1,3,4,3,7,1,2,High uniformity deviation; patient history indicates surveillance.
+4,1,1,3,2,1,3,1,1,2,Small epithelial size; no evidence of mitotic activity.
+8,10,10,8,7,10,9,7,1,4,Malignant clusters identified; significant bare nuclei presence.
+1,1,1,1,2,10,3,1,1,2,Isolated bare nuclei; regular cellular boundaries.
+2,1,2,1,2,1,3,1,1,2,Stable morphology; no intercellular adhesion issues.
+2,1,1,1,2,1,1,1,5,2,Higher mitosis count noted; monitor for future proliferation.
+4,2,1,1,2,1,2,1,1,2,Benign histology; consistent chromatin texture.
+1,1,1,1,1,1,3,1,1,2,Uniform cell shape; no signs of malignant development.
+2,1,1,1,2,1,2,1,1,2,Normal tissue sample; scheduled for annual screening.
+5,3,3,3,2,3,4,4,1,4,Atypical growth pattern; diagnostic of early-stage malignancy.
+1,1,1,1,2,3,3,1,1,2,Consistent epithelial size; benign presentation.
+8,7,5,10,7,9,5,5,4,4,Advanced malignancy; high mitosis and marginal adhesion.

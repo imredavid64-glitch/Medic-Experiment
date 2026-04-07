@@ -1,0 +1,16 @@
+Age,SystolicBP,DiastolicBP,BS,BodyTemp,HeartRate,RiskLevel,Observation_Notes
+25,130,80,15,98,86,high risk,Gestational diabetes markers; monitor glucose levels.
+35,140,90,13,98,70,high risk,Hypertensive urgency; high risk of pre-eclampsia.
+29,90,70,8,100,80,high risk,Fever and elevated glucose detected; monitor for sepsis.
+30,140,85,7,98,70,high risk,Consistent hypertension; immediate intervention required.
+35,120,60,6.1,98,76,low risk,Normal vital sign profile; routine care continues.
+23,140,80,7.01,98,70,high risk,Pregnancy-induced hypertension; scheduled for monitoring.
+23,130,70,7.01,98,78,mid risk,Moderate blood pressure; advise lifestyle changes.
+35,85,60,11,102,86,high risk,High temperature and blood sugar; systemic risk.
+32,120,90,6.9,98,70,mid risk,Elevated diastolic pressure; monitor fetal health.
+42,130,80,18,98,70,high risk,Advanced maternal age with severe hyperglycemia.
+19,120,75,7.9,101,76,high risk,Adolescent pregnancy with signs of systemic infection.
+19,90,70,7,98,80,mid risk,Stable blood pressure; borderline glucose levels.
+25,110,60,7,98,76,low risk,Healthy physiological markers; no concerns noted.
+20,120,75,7,98,70,low risk,Normal development; patient reports no symptoms.
+48,120,80,11,98,88,high risk,Age-related metabolic stress; high risk classification.

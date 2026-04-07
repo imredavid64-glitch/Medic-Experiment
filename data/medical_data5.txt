@@ -1,0 +1,5 @@
+Cytological Feature Consolidation in Oncological Classification
+Digital pathology has necessitated the quantification of nuclear morphology to differentiate between benign and malignant cellular structures. The Breast Cancer Wisconsin Diagnostic dataset represents a pivotal resource for classification based on cytological attributes derived from fine-needle aspirates (FNA).
+
+Morphological Parameters and Histopathological Triage
+Diagnostic markers in this domain are generally assessed on a standardized 1-10 ordinal scale. Multicollinearity analysis indicates that "Uniformity of Cell Size" and "Uniformity of Cell Shape" are frequently highly correlated (R > 0.9), suggesting redundant diagnostic information in simplified linear models.
