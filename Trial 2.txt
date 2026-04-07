@@ -1,0 +1,3151 @@
+Trial 2
+
+[Volume: 5 tokens] | Bias Score: 0.001000
+ - Summary Point: 63 | Pattern identified via 1 repetitions.
+ - Summary Point: 1 | Pattern identified via 1 repetitions.
+ - Summary Point: 3 | Pattern identified via 1 repetitions.
+ - Summary Point: 145 | Pattern identified via 1 repetitions.
+ - Summary Point: 233 | Pattern identified via 1 repetitions.
+
+[Volume: 10 tokens] | Bias Score: 0.001400
+ - Summary Point: 1 | Pattern identified via 2 repetitions.
+ - Summary Point: 0 | Pattern identified via 2 repetitions.
+ - Summary Point: 63 | Pattern identified via 1 repetitions.
+ - Summary Point: 3 | Pattern identified via 1 repetitions.
+ - Summary Point: 145 | Pattern identified via 1 repetitions.
+
+[Volume: 15 tokens] | Bias Score: 0.002198
+ - Summary Point: 1 | Pattern identified via 4 repetitions.
+ - Summary Point: 0 | Pattern identified via 4 repetitions.
+ - Summary Point: 63 | Pattern identified via 1 repetitions.
+ - Summary Point: 3 | Pattern identified via 1 repetitions.
+ - Summary Point: 145 | Pattern identified via 1 repetitions.
+
+[Volume: 20 tokens] | Bias Score: 0.002397
+ - Summary Point: 1 | Pattern identified via 5 repetitions.
+ - Summary Point: 0 | Pattern identified via 4 repetitions.
+ - Summary Point: 63 | Pattern identified via 1 repetitions.
+ - Summary Point: 3 | Pattern identified via 1 repetitions.
+ - Summary Point: 145 | Pattern identified via 1 repetitions.
+
+[Volume: 25 tokens] | Bias Score: 0.002994
+ - Summary Point: 1 | Pattern identified via 6 repetitions.
+ - Summary Point: 0 | Pattern identified via 6 repetitions.
+ - Summary Point: 63 | Pattern identified via 1 repetitions.
+ - Summary Point: 3 | Pattern identified via 1 repetitions.
+ - Summary Point: 145 | Pattern identified via 1 repetitions.
+
+[Volume: 30 tokens] | Bias Score: 0.003790
+ - Summary Point: 0 | Pattern identified via 8 repetitions.
+ - Summary Point: 1 | Pattern identified via 7 repetitions.
+ - Summary Point: 2 | Pattern identified via 2 repetitions.
+ - Summary Point: 63 | Pattern identified via 1 repetitions.
+ - Summary Point: 3 | Pattern identified via 1 repetitions.
+
+[Volume: 35 tokens] | Bias Score: 0.004387
+ - Summary Point: 0 | Pattern identified via 9 repetitions.
+ - Summary Point: 1 | Pattern identified via 8 repetitions.
+ - Summary Point: 2 | Pattern identified via 2 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+ - Summary Point: 63 | Pattern identified via 1 repetitions.
+
+[Volume: 40 tokens] | Bias Score: 0.004981
+ - Summary Point: 0 | Pattern identified via 12 repetitions.
+ - Summary Point: 1 | Pattern identified via 8 repetitions.
+ - Summary Point: 2 | Pattern identified via 2 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+ - Summary Point: 63 | Pattern identified via 1 repetitions.
+
+[Volume: 45 tokens] | Bias Score: 0.005776
+ - Summary Point: 0 | Pattern identified via 13 repetitions.
+ - Summary Point: 1 | Pattern identified via 9 repetitions.
+ - Summary Point: 2 | Pattern identified via 4 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+ - Summary Point: 63 | Pattern identified via 1 repetitions.
+
+[Volume: 50 tokens] | Bias Score: 0.006172
+ - Summary Point: 0 | Pattern identified via 13 repetitions.
+ - Summary Point: 1 | Pattern identified via 11 repetitions.
+ - Summary Point: 2 | Pattern identified via 4 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+ - Summary Point: 63 | Pattern identified via 1 repetitions.
+
+[Volume: 55 tokens] | Bias Score: 0.006765
+ - Summary Point: 0 | Pattern identified via 15 repetitions.
+ - Summary Point: 1 | Pattern identified via 12 repetitions.
+ - Summary Point: 2 | Pattern identified via 4 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+ - Summary Point: 63 | Pattern identified via 1 repetitions.
+
+[Volume: 60 tokens] | Bias Score: 0.007557
+ - Summary Point: 0 | Pattern identified via 16 repetitions.
+ - Summary Point: 1 | Pattern identified via 13 repetitions.
+ - Summary Point: 2 | Pattern identified via 6 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+ - Summary Point: 63 | Pattern identified via 1 repetitions.
+
+[Volume: 65 tokens] | Bias Score: 0.008151
+ - Summary Point: 0 | Pattern identified via 18 repetitions.
+ - Summary Point: 1 | Pattern identified via 13 repetitions.
+ - Summary Point: 2 | Pattern identified via 6 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+ - Summary Point: 120 | Pattern identified via 2 repetitions.
+
+[Volume: 70 tokens] | Bias Score: 0.008742
+ - Summary Point: 0 | Pattern identified via 19 repetitions.
+ - Summary Point: 1 | Pattern identified via 15 repetitions.
+ - Summary Point: 2 | Pattern identified via 6 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+ - Summary Point: 120 | Pattern identified via 2 repetitions.
+
+[Volume: 75 tokens] | Bias Score: 0.009532
+ - Summary Point: 0 | Pattern identified via 20 repetitions.
+ - Summary Point: 1 | Pattern identified via 16 repetitions.
+ - Summary Point: 2 | Pattern identified via 8 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+ - Summary Point: 120 | Pattern identified via 2 repetitions.
+
+[Volume: 80 tokens] | Bias Score: 0.009925
+ - Summary Point: 0 | Pattern identified via 21 repetitions.
+ - Summary Point: 1 | Pattern identified via 17 repetitions.
+ - Summary Point: 2 | Pattern identified via 8 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+ - Summary Point: 120 | Pattern identified via 2 repetitions.
+
+[Volume: 85 tokens] | Bias Score: 0.010513
+ - Summary Point: 0 | Pattern identified via 23 repetitions.
+ - Summary Point: 1 | Pattern identified via 18 repetitions.
+ - Summary Point: 2 | Pattern identified via 8 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+ - Summary Point: 120 | Pattern identified via 2 repetitions.
+
+[Volume: 90 tokens] | Bias Score: 0.011297
+ - Summary Point: 0 | Pattern identified via 24 repetitions.
+ - Summary Point: 1 | Pattern identified via 21 repetitions.
+ - Summary Point: 2 | Pattern identified via 8 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+ - Summary Point: 120 | Pattern identified via 2 repetitions.
+
+[Volume: 95 tokens] | Bias Score: 0.011689
+ - Summary Point: 0 | Pattern identified via 25 repetitions.
+ - Summary Point: 1 | Pattern identified via 22 repetitions.
+ - Summary Point: 2 | Pattern identified via 8 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+ - Summary Point: 56 | Pattern identified via 2 repetitions.
+
+[Volume: 100 tokens] | Bias Score: 0.012273
+ - Summary Point: 0 | Pattern identified via 28 repetitions.
+ - Summary Point: 1 | Pattern identified via 22 repetitions.
+ - Summary Point: 2 | Pattern identified via 8 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+ - Summary Point: 56 | Pattern identified via 2 repetitions.
+
+[Volume: 105 tokens] | Bias Score: 0.013057
+ - Summary Point: 0 | Pattern identified via 29 repetitions.
+ - Summary Point: 1 | Pattern identified via 24 repetitions.
+ - Summary Point: 2 | Pattern identified via 9 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+ - Summary Point: 56 | Pattern identified via 2 repetitions.
+
+[Volume: 110 tokens] | Bias Score: 0.013647
+ - Summary Point: 0 | Pattern identified via 29 repetitions.
+ - Summary Point: 1 | Pattern identified via 26 repetitions.
+ - Summary Point: 2 | Pattern identified via 9 repetitions.
+ - Summary Point: 120 | Pattern identified via 3 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+
+[Volume: 115 tokens] | Bias Score: 0.014424
+ - Summary Point: 0 | Pattern identified via 32 repetitions.
+ - Summary Point: 1 | Pattern identified via 27 repetitions.
+ - Summary Point: 2 | Pattern identified via 9 repetitions.
+ - Summary Point: 120 | Pattern identified via 3 repetitions.
+ - Summary Point: 130 | Pattern identified via 2 repetitions.
+
+[Volume: 120 tokens] | Bias Score: 0.015011
+ - Summary Point: 0 | Pattern identified via 33 repetitions.
+ - Summary Point: 1 | Pattern identified via 28 repetitions.
+ - Summary Point: 2 | Pattern identified via 10 repetitions.
+ - Summary Point: 120 | Pattern identified via 3 repetitions.
+ - Summary Point: 3 | Pattern identified via 2 repetitions.
+
+[Volume: 125 tokens] | Bias Score: 0.015403
+ - Summary Point: 0 | Pattern identified via 33 repetitions.
+ - Summary Point: 1 | Pattern identified via 29 repetitions.
+ - Summary Point: 2 | Pattern identified via 11 repetitions.
+ - Summary Point: 120 | Pattern identified via 3 repetitions.
+ - Summary Point: 3 | Pattern identified via 2 repetitions.
+
+[Volume: 130 tokens] | Bias Score: 0.015985
+ - Summary Point: 0 | Pattern identified via 34 repetitions.
+ - Summary Point: 1 | Pattern identified via 31 repetitions.
+ - Summary Point: 2 | Pattern identified via 11 repetitions.
+ - Summary Point: 120 | Pattern identified via 3 repetitions.
+ - Summary Point: 3 | Pattern identified via 2 repetitions.
+
+[Volume: 135 tokens] | Bias Score: 0.016770
+ - Summary Point: 0 | Pattern identified via 35 repetitions.
+ - Summary Point: 1 | Pattern identified via 32 repetitions.
+ - Summary Point: 2 | Pattern identified via 12 repetitions.
+ - Summary Point: 3 | Pattern identified via 3 repetitions.
+ - Summary Point: 120 | Pattern identified via 3 repetitions.
+
+[Volume: 140 tokens] | Bias Score: 0.017161
+ - Summary Point: 0 | Pattern identified via 35 repetitions.
+ - Summary Point: 1 | Pattern identified via 33 repetitions.
+ - Summary Point: 2 | Pattern identified via 13 repetitions.
+ - Summary Point: 3 | Pattern identified via 3 repetitions.
+ - Summary Point: 120 | Pattern identified via 3 repetitions.
+
+[Volume: 145 tokens] | Bias Score: 0.017741
+ - Summary Point: 0 | Pattern identified via 37 repetitions.
+ - Summary Point: 1 | Pattern identified via 34 repetitions.
+ - Summary Point: 2 | Pattern identified via 13 repetitions.
+ - Summary Point: 3 | Pattern identified via 3 repetitions.
+ - Summary Point: 120 | Pattern identified via 3 repetitions.
+
+[Volume: 150 tokens] | Bias Score: 0.018521
+ - Summary Point: 0 | Pattern identified via 38 repetitions.
+ - Summary Point: 1 | Pattern identified via 35 repetitions.
+ - Summary Point: 2 | Pattern identified via 15 repetitions.
+ - Summary Point: 3 | Pattern identified via 3 repetitions.
+ - Summary Point: 120 | Pattern identified via 3 repetitions.
+
+[Volume: 155 tokens] | Bias Score: 0.018907
+ - Summary Point: 0 | Pattern identified via 39 repetitions.
+ - Summary Point: 1 | Pattern identified via 36 repetitions.
+ - Summary Point: 2 | Pattern identified via 15 repetitions.
+ - Summary Point: 3 | Pattern identified via 3 repetitions.
+ - Summary Point: 120 | Pattern identified via 3 repetitions.
+
+[Volume: 160 tokens] | Bias Score: 0.019484
+ - Summary Point: 0 | Pattern identified via 41 repetitions.
+ - Summary Point: 1 | Pattern identified via 37 repetitions.
+ - Summary Point: 2 | Pattern identified via 15 repetitions.
+ - Summary Point: 3 | Pattern identified via 3 repetitions.
+ - Summary Point: 120 | Pattern identified via 3 repetitions.
+
+[Volume: 165 tokens] | Bias Score: 0.020263
+ - Summary Point: 0 | Pattern identified via 42 repetitions.
+ - Summary Point: 1 | Pattern identified via 38 repetitions.
+ - Summary Point: 2 | Pattern identified via 17 repetitions.
+ - Summary Point: 3 | Pattern identified via 3 repetitions.
+ - Summary Point: 120 | Pattern identified via 3 repetitions.
+
+[Volume: 170 tokens] | Bias Score: 0.020651
+ - Summary Point: 0 | Pattern identified via 43 repetitions.
+ - Summary Point: 1 | Pattern identified via 38 repetitions.
+ - Summary Point: 2 | Pattern identified via 18 repetitions.
+ - Summary Point: 3 | Pattern identified via 3 repetitions.
+ - Summary Point: 130 | Pattern identified via 3 repetitions.
+
+[Volume: 175 tokens] | Bias Score: 0.021227
+ - Summary Point: 0 | Pattern identified via 45 repetitions.
+ - Summary Point: 1 | Pattern identified via 39 repetitions.
+ - Summary Point: 2 | Pattern identified via 18 repetitions.
+ - Summary Point: 3 | Pattern identified via 3 repetitions.
+ - Summary Point: 130 | Pattern identified via 3 repetitions.
+
+[Volume: 180 tokens] | Bias Score: 0.022003
+ - Summary Point: 0 | Pattern identified via 46 repetitions.
+ - Summary Point: 1 | Pattern identified via 40 repetitions.
+ - Summary Point: 2 | Pattern identified via 20 repetitions.
+ - Summary Point: 3 | Pattern identified via 3 repetitions.
+ - Summary Point: 130 | Pattern identified via 3 repetitions.
+
+[Volume: 185 tokens] | Bias Score: 0.022587
+ - Summary Point: 0 | Pattern identified via 46 repetitions.
+ - Summary Point: 1 | Pattern identified via 42 repetitions.
+ - Summary Point: 2 | Pattern identified via 20 repetitions.
+ - Summary Point: 130 | Pattern identified via 4 repetitions.
+ - Summary Point: 3 | Pattern identified via 3 repetitions.
+
+[Volume: 190 tokens] | Bias Score: 0.023160
+ - Summary Point: 0 | Pattern identified via 48 repetitions.
+ - Summary Point: 1 | Pattern identified via 43 repetitions.
+ - Summary Point: 2 | Pattern identified via 20 repetitions.
+ - Summary Point: 130 | Pattern identified via 4 repetitions.
+ - Summary Point: 3 | Pattern identified via 3 repetitions.
+
+[Volume: 195 tokens] | Bias Score: 0.023934
+ - Summary Point: 0 | Pattern identified via 49 repetitions.
+ - Summary Point: 1 | Pattern identified via 44 repetitions.
+ - Summary Point: 2 | Pattern identified via 22 repetitions.
+ - Summary Point: 130 | Pattern identified via 4 repetitions.
+ - Summary Point: 3 | Pattern identified via 3 repetitions.
+
+[Volume: 200 tokens] | Bias Score: 0.024325
+ - Summary Point: 0 | Pattern identified via 49 repetitions.
+ - Summary Point: 1 | Pattern identified via 45 repetitions.
+ - Summary Point: 2 | Pattern identified via 22 repetitions.
+ - Summary Point: 3 | Pattern identified via 4 repetitions.
+ - Summary Point: 130 | Pattern identified via 4 repetitions.
+
+[Volume: 205 tokens] | Bias Score: 0.024897
+ - Summary Point: 0 | Pattern identified via 51 repetitions.
+ - Summary Point: 1 | Pattern identified via 46 repetitions.
+ - Summary Point: 2 | Pattern identified via 22 repetitions.
+ - Summary Point: 3 | Pattern identified via 4 repetitions.
+ - Summary Point: 130 | Pattern identified via 4 repetitions.
+
+[Volume: 210 tokens] | Bias Score: 0.025664
+ - Summary Point: 0 | Pattern identified via 52 repetitions.
+ - Summary Point: 1 | Pattern identified via 48 repetitions.
+ - Summary Point: 2 | Pattern identified via 23 repetitions.
+ - Summary Point: 3 | Pattern identified via 4 repetitions.
+ - Summary Point: 130 | Pattern identified via 4 repetitions.
+
+[Volume: 215 tokens] | Bias Score: 0.026053
+ - Summary Point: 0 | Pattern identified via 53 repetitions.
+ - Summary Point: 1 | Pattern identified via 48 repetitions.
+ - Summary Point: 2 | Pattern identified via 23 repetitions.
+ - Summary Point: 3 | Pattern identified via 5 repetitions.
+ - Summary Point: 130 | Pattern identified via 4 repetitions.
+
+[Volume: 220 tokens] | Bias Score: 0.026814
+ - Summary Point: 0 | Pattern identified via 55 repetitions.
+ - Summary Point: 1 | Pattern identified via 50 repetitions.
+ - Summary Point: 2 | Pattern identified via 23 repetitions.
+ - Summary Point: 3 | Pattern identified via 5 repetitions.
+ - Summary Point: 130 | Pattern identified via 4 repetitions.
+
+[Volume: 225 tokens] | Bias Score: 0.027584
+ - Summary Point: 0 | Pattern identified via 56 repetitions.
+ - Summary Point: 1 | Pattern identified via 51 repetitions.
+ - Summary Point: 2 | Pattern identified via 25 repetitions.
+ - Summary Point: 3 | Pattern identified via 5 repetitions.
+ - Summary Point: 130 | Pattern identified via 4 repetitions.
+
+[Volume: 230 tokens] | Bias Score: 0.027963
+ - Summary Point: 0 | Pattern identified via 57 repetitions.
+ - Summary Point: 1 | Pattern identified via 52 repetitions.
+ - Summary Point: 2 | Pattern identified via 25 repetitions.
+ - Summary Point: 3 | Pattern identified via 5 repetitions.
+ - Summary Point: 130 | Pattern identified via 4 repetitions.
+
+[Volume: 235 tokens] | Bias Score: 0.028152
+ - Summary Point: 0 | Pattern identified via 58 repetitions.
+ - Summary Point: 1 | Pattern identified via 52 repetitions.
+ - Summary Point: 2 | Pattern identified via 25 repetitions.
+ - Summary Point: 3 | Pattern identified via 5 repetitions.
+ - Summary Point: 130 | Pattern identified via 4 repetitions.
+
+[Volume: 240 tokens] | Bias Score: 0.028152
+ - Summary Point: 0 | Pattern identified via 58 repetitions.
+ - Summary Point: 1 | Pattern identified via 52 repetitions.
+ - Summary Point: 2 | Pattern identified via 25 repetitions.
+ - Summary Point: 3 | Pattern identified via 5 repetitions.
+ - Summary Point: 130 | Pattern identified via 4 repetitions.
+
+[Volume: 245 tokens] | Bias Score: 0.028342
+ - Summary Point: 0 | Pattern identified via 58 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 25 repetitions.
+ - Summary Point: 3 | Pattern identified via 5 repetitions.
+ - Summary Point: 130 | Pattern identified via 4 repetitions.
+
+[Volume: 250 tokens] | Bias Score: 0.028530
+ - Summary Point: 0 | Pattern identified via 59 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 25 repetitions.
+ - Summary Point: 3 | Pattern identified via 5 repetitions.
+ - Summary Point: 130 | Pattern identified via 4 repetitions.
+
+[Volume: 255 tokens] | Bias Score: 0.028730
+ - Summary Point: 0 | Pattern identified via 59 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 25 repetitions.
+ - Summary Point: 3 | Pattern identified via 5 repetitions.
+ - Summary Point: ? | Pattern identified via 5 repetitions.
+
+[Volume: 260 tokens] | Bias Score: 0.029128
+ - Summary Point: 0 | Pattern identified via 59 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 25 repetitions.
+ - Summary Point: ? | Pattern identified via 7 repetitions.
+ - Summary Point: 3 | Pattern identified via 5 repetitions.
+
+[Volume: 265 tokens] | Bias Score: 0.029323
+ - Summary Point: 0 | Pattern identified via 59 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 7 repetitions.
+ - Summary Point: 3 | Pattern identified via 5 repetitions.
+
+[Volume: 270 tokens] | Bias Score: 0.029716
+ - Summary Point: 0 | Pattern identified via 59 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 7 repetitions.
+ - Summary Point: 3 | Pattern identified via 6 repetitions.
+
+[Volume: 275 tokens] | Bias Score: 0.029915
+ - Summary Point: 0 | Pattern identified via 59 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 8 repetitions.
+ - Summary Point: 3 | Pattern identified via 6 repetitions.
+
+[Volume: 280 tokens] | Bias Score: 0.030312
+ - Summary Point: 0 | Pattern identified via 59 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 9 repetitions.
+ - Summary Point: 3 | Pattern identified via 7 repetitions.
+
+[Volume: 285 tokens] | Bias Score: 0.030501
+ - Summary Point: 0 | Pattern identified via 60 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 9 repetitions.
+ - Summary Point: 3 | Pattern identified via 7 repetitions.
+
+[Volume: 290 tokens] | Bias Score: 0.030501
+ - Summary Point: 0 | Pattern identified via 60 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 9 repetitions.
+ - Summary Point: 3 | Pattern identified via 7 repetitions.
+
+[Volume: 295 tokens] | Bias Score: 0.030501
+ - Summary Point: 0 | Pattern identified via 60 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 9 repetitions.
+ - Summary Point: 3 | Pattern identified via 7 repetitions.
+
+[Volume: 300 tokens] | Bias Score: 0.030501
+ - Summary Point: 0 | Pattern identified via 60 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 9 repetitions.
+ - Summary Point: 3 | Pattern identified via 7 repetitions.
+
+[Volume: 305 tokens] | Bias Score: 0.030884
+ - Summary Point: 0 | Pattern identified via 61 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 28 repetitions.
+ - Summary Point: ? | Pattern identified via 9 repetitions.
+ - Summary Point: 3 | Pattern identified via 7 repetitions.
+
+[Volume: 310 tokens] | Bias Score: 0.031281
+ - Summary Point: 0 | Pattern identified via 61 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 28 repetitions.
+ - Summary Point: ? | Pattern identified via 9 repetitions.
+ - Summary Point: notpresent | Pattern identified via 9 repetitions.
+
+[Volume: 315 tokens] | Bias Score: 0.031677
+ - Summary Point: 0 | Pattern identified via 61 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 28 repetitions.
+ - Summary Point: ? | Pattern identified via 11 repetitions.
+ - Summary Point: notpresent | Pattern identified via 9 repetitions.
+
+[Volume: 320 tokens] | Bias Score: 0.031677
+ - Summary Point: 0 | Pattern identified via 61 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 28 repetitions.
+ - Summary Point: ? | Pattern identified via 11 repetitions.
+ - Summary Point: notpresent | Pattern identified via 9 repetitions.
+
+[Volume: 325 tokens] | Bias Score: 0.032657
+ - Summary Point: 0 | Pattern identified via 62 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 28 repetitions.
+ - Summary Point: ? | Pattern identified via 13 repetitions.
+ - Summary Point: notpresent | Pattern identified via 11 repetitions.
+
+[Volume: 330 tokens] | Bias Score: 0.032657
+ - Summary Point: 0 | Pattern identified via 62 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 28 repetitions.
+ - Summary Point: ? | Pattern identified via 13 repetitions.
+ - Summary Point: notpresent | Pattern identified via 11 repetitions.
+
+[Volume: 335 tokens] | Bias Score: 0.032657
+ - Summary Point: 0 | Pattern identified via 62 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 28 repetitions.
+ - Summary Point: ? | Pattern identified via 13 repetitions.
+ - Summary Point: notpresent | Pattern identified via 11 repetitions.
+
+[Volume: 340 tokens] | Bias Score: 0.033230
+ - Summary Point: 0 | Pattern identified via 64 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 28 repetitions.
+ - Summary Point: ? | Pattern identified via 14 repetitions.
+ - Summary Point: notpresent | Pattern identified via 11 repetitions.
+
+[Volume: 345 tokens] | Bias Score: 0.033625
+ - Summary Point: 0 | Pattern identified via 64 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 28 repetitions.
+ - Summary Point: ? | Pattern identified via 14 repetitions.
+ - Summary Point: notpresent | Pattern identified via 13 repetitions.
+
+[Volume: 350 tokens] | Bias Score: 0.033625
+ - Summary Point: 0 | Pattern identified via 64 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 28 repetitions.
+ - Summary Point: ? | Pattern identified via 14 repetitions.
+ - Summary Point: notpresent | Pattern identified via 13 repetitions.
+
+[Volume: 355 tokens] | Bias Score: 0.033823
+ - Summary Point: 0 | Pattern identified via 64 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 28 repetitions.
+ - Summary Point: ? | Pattern identified via 15 repetitions.
+ - Summary Point: notpresent | Pattern identified via 13 repetitions.
+
+[Volume: 360 tokens] | Bias Score: 0.034215
+ - Summary Point: 0 | Pattern identified via 64 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 29 repetitions.
+ - Summary Point: ? | Pattern identified via 15 repetitions.
+ - Summary Point: notpresent | Pattern identified via 14 repetitions.
+
+[Volume: 365 tokens] | Bias Score: 0.034609
+ - Summary Point: 0 | Pattern identified via 64 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 29 repetitions.
+ - Summary Point: ? | Pattern identified via 16 repetitions.
+ - Summary Point: notpresent | Pattern identified via 15 repetitions.
+
+[Volume: 370 tokens] | Bias Score: 0.034806
+ - Summary Point: 0 | Pattern identified via 64 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 29 repetitions.
+ - Summary Point: ? | Pattern identified via 17 repetitions.
+ - Summary Point: notpresent | Pattern identified via 15 repetitions.
+
+[Volume: 375 tokens] | Bias Score: 0.034993
+ - Summary Point: 0 | Pattern identified via 65 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 29 repetitions.
+ - Summary Point: ? | Pattern identified via 17 repetitions.
+ - Summary Point: notpresent | Pattern identified via 15 repetitions.
+
+[Volume: 380 tokens] | Bias Score: 0.035190
+ - Summary Point: 0 | Pattern identified via 65 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 29 repetitions.
+ - Summary Point: ? | Pattern identified via 17 repetitions.
+ - Summary Point: notpresent | Pattern identified via 16 repetitions.
+
+[Volume: 385 tokens] | Bias Score: 0.035583
+ - Summary Point: 0 | Pattern identified via 65 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 29 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 16 repetitions.
+
+[Volume: 390 tokens] | Bias Score: 0.035583
+ - Summary Point: 0 | Pattern identified via 65 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 29 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 16 repetitions.
+
+[Volume: 395 tokens] | Bias Score: 0.035965
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 16 repetitions.
+
+[Volume: 400 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 405 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 410 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 415 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 420 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 425 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 430 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 435 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 440 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 445 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 450 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 455 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 460 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 465 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 470 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 475 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 480 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 485 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 490 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 495 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 500 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 505 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 510 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 515 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 520 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 525 tokens] | Bias Score: 0.036162
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 53 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 530 tokens] | Bias Score: 0.036730
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 56 repetitions.
+ - Summary Point: 2 | Pattern identified via 30 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 535 tokens] | Bias Score: 0.037491
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 59 repetitions.
+ - Summary Point: 2 | Pattern identified via 31 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 540 tokens] | Bias Score: 0.037685
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 59 repetitions.
+ - Summary Point: 2 | Pattern identified via 32 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 545 tokens] | Bias Score: 0.037879
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 59 repetitions.
+ - Summary Point: 2 | Pattern identified via 33 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 550 tokens] | Bias Score: 0.038449
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 61 repetitions.
+ - Summary Point: 2 | Pattern identified via 34 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 555 tokens] | Bias Score: 0.039212
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 63 repetitions.
+ - Summary Point: 2 | Pattern identified via 36 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 560 tokens] | Bias Score: 0.039780
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 1 | Pattern identified via 65 repetitions.
+ - Summary Point: 2 | Pattern identified via 37 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 565 tokens] | Bias Score: 0.039967
+ - Summary Point: 1 | Pattern identified via 66 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 37 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 570 tokens] | Bias Score: 0.040347
+ - Summary Point: 1 | Pattern identified via 67 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 38 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 575 tokens] | Bias Score: 0.040914
+ - Summary Point: 1 | Pattern identified via 69 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 39 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: notpresent | Pattern identified via 17 repetitions.
+
+[Volume: 580 tokens] | Bias Score: 0.041665
+ - Summary Point: 1 | Pattern identified via 72 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 40 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: 3 | Pattern identified via 17 repetitions.
+
+[Volume: 585 tokens] | Bias Score: 0.041665
+ - Summary Point: 1 | Pattern identified via 72 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 40 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: 3 | Pattern identified via 17 repetitions.
+
+[Volume: 590 tokens] | Bias Score: 0.041852
+ - Summary Point: 1 | Pattern identified via 73 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 40 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: 3 | Pattern identified via 17 repetitions.
+
+[Volume: 595 tokens] | Bias Score: 0.042409
+ - Summary Point: 1 | Pattern identified via 76 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 40 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: 3 | Pattern identified via 17 repetitions.
+
+[Volume: 600 tokens] | Bias Score: 0.043168
+ - Summary Point: 1 | Pattern identified via 78 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 41 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: 3 | Pattern identified via 18 repetitions.
+
+[Volume: 605 tokens] | Bias Score: 0.043922
+ - Summary Point: 1 | Pattern identified via 80 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 43 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+ - Summary Point: 3 | Pattern identified via 18 repetitions.
+
+[Volume: 610 tokens] | Bias Score: 0.044870
+ - Summary Point: 1 | Pattern identified via 82 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 45 repetitions.
+ - Summary Point: 3 | Pattern identified via 19 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 615 tokens] | Bias Score: 0.045620
+ - Summary Point: 1 | Pattern identified via 84 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 47 repetitions.
+ - Summary Point: 3 | Pattern identified via 19 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 620 tokens] | Bias Score: 0.046546
+ - Summary Point: 1 | Pattern identified via 88 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 48 repetitions.
+ - Summary Point: 3 | Pattern identified via 19 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 625 tokens] | Bias Score: 0.047102
+ - Summary Point: 1 | Pattern identified via 90 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 49 repetitions.
+ - Summary Point: 3 | Pattern identified via 19 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 630 tokens] | Bias Score: 0.047848
+ - Summary Point: 1 | Pattern identified via 92 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 51 repetitions.
+ - Summary Point: 3 | Pattern identified via 19 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 635 tokens] | Bias Score: 0.048775
+ - Summary Point: 1 | Pattern identified via 95 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 53 repetitions.
+ - Summary Point: 3 | Pattern identified via 19 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 640 tokens] | Bias Score: 0.049501
+ - Summary Point: 1 | Pattern identified via 99 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 53 repetitions.
+ - Summary Point: 3 | Pattern identified via 19 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 645 tokens] | Bias Score: 0.050421
+ - Summary Point: 1 | Pattern identified via 103 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 53 repetitions.
+ - Summary Point: 3 | Pattern identified via 20 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 650 tokens] | Bias Score: 0.051161
+ - Summary Point: 1 | Pattern identified via 105 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 55 repetitions.
+ - Summary Point: 3 | Pattern identified via 20 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 655 tokens] | Bias Score: 0.052079
+ - Summary Point: 1 | Pattern identified via 108 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 57 repetitions.
+ - Summary Point: 3 | Pattern identified via 20 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 660 tokens] | Bias Score: 0.052643
+ - Summary Point: 1 | Pattern identified via 109 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 58 repetitions.
+ - Summary Point: 3 | Pattern identified via 21 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 665 tokens] | Bias Score: 0.053419
+ - Summary Point: 1 | Pattern identified via 109 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 59 repetitions.
+ - Summary Point: 3 | Pattern identified via 24 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 670 tokens] | Bias Score: 0.053778
+ - Summary Point: 1 | Pattern identified via 111 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 59 repetitions.
+ - Summary Point: 3 | Pattern identified via 24 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 675 tokens] | Bias Score: 0.054698
+ - Summary Point: 1 | Pattern identified via 114 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 60 repetitions.
+ - Summary Point: 3 | Pattern identified via 25 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 680 tokens] | Bias Score: 0.055438
+ - Summary Point: 1 | Pattern identified via 116 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 685 tokens] | Bias Score: 0.055438
+ - Summary Point: 1 | Pattern identified via 116 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 690 tokens] | Bias Score: 0.055438
+ - Summary Point: 1 | Pattern identified via 116 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 695 tokens] | Bias Score: 0.055438
+ - Summary Point: 1 | Pattern identified via 116 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 700 tokens] | Bias Score: 0.055438
+ - Summary Point: 1 | Pattern identified via 116 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 705 tokens] | Bias Score: 0.055438
+ - Summary Point: 1 | Pattern identified via 116 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 710 tokens] | Bias Score: 0.055438
+ - Summary Point: 1 | Pattern identified via 116 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 715 tokens] | Bias Score: 0.055438
+ - Summary Point: 1 | Pattern identified via 116 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 720 tokens] | Bias Score: 0.055438
+ - Summary Point: 1 | Pattern identified via 116 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 725 tokens] | Bias Score: 0.055438
+ - Summary Point: 1 | Pattern identified via 116 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 730 tokens] | Bias Score: 0.055438
+ - Summary Point: 1 | Pattern identified via 116 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 735 tokens] | Bias Score: 0.055438
+ - Summary Point: 1 | Pattern identified via 116 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 740 tokens] | Bias Score: 0.055438
+ - Summary Point: 1 | Pattern identified via 116 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 745 tokens] | Bias Score: 0.055438
+ - Summary Point: 1 | Pattern identified via 116 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 750 tokens] | Bias Score: 0.055438
+ - Summary Point: 1 | Pattern identified via 116 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 755 tokens] | Bias Score: 0.055616
+ - Summary Point: 1 | Pattern identified via 117 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 760 tokens] | Bias Score: 0.055616
+ - Summary Point: 1 | Pattern identified via 117 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 765 tokens] | Bias Score: 0.055616
+ - Summary Point: 1 | Pattern identified via 117 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 770 tokens] | Bias Score: 0.055794
+ - Summary Point: 1 | Pattern identified via 118 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 775 tokens] | Bias Score: 0.055794
+ - Summary Point: 1 | Pattern identified via 118 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 780 tokens] | Bias Score: 0.055972
+ - Summary Point: 1 | Pattern identified via 119 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 785 tokens] | Bias Score: 0.056149
+ - Summary Point: 1 | Pattern identified via 120 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 790 tokens] | Bias Score: 0.056504
+ - Summary Point: 1 | Pattern identified via 122 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 61 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 795 tokens] | Bias Score: 0.056692
+ - Summary Point: 1 | Pattern identified via 122 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 62 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 800 tokens] | Bias Score: 0.056692
+ - Summary Point: 1 | Pattern identified via 122 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 62 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 805 tokens] | Bias Score: 0.056869
+ - Summary Point: 1 | Pattern identified via 123 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 62 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 810 tokens] | Bias Score: 0.056869
+ - Summary Point: 1 | Pattern identified via 123 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 62 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 815 tokens] | Bias Score: 0.057046
+ - Summary Point: 1 | Pattern identified via 124 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 62 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 820 tokens] | Bias Score: 0.057046
+ - Summary Point: 1 | Pattern identified via 124 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 62 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 825 tokens] | Bias Score: 0.057222
+ - Summary Point: 1 | Pattern identified via 125 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 62 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 830 tokens] | Bias Score: 0.057399
+ - Summary Point: 1 | Pattern identified via 126 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 62 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 835 tokens] | Bias Score: 0.057399
+ - Summary Point: 1 | Pattern identified via 126 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 62 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 840 tokens] | Bias Score: 0.057575
+ - Summary Point: 1 | Pattern identified via 127 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 62 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 845 tokens] | Bias Score: 0.057575
+ - Summary Point: 1 | Pattern identified via 127 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 62 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 850 tokens] | Bias Score: 0.057763
+ - Summary Point: 1 | Pattern identified via 127 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 63 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 855 tokens] | Bias Score: 0.057763
+ - Summary Point: 1 | Pattern identified via 127 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 63 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 860 tokens] | Bias Score: 0.057763
+ - Summary Point: 1 | Pattern identified via 127 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 63 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 865 tokens] | Bias Score: 0.058115
+ - Summary Point: 1 | Pattern identified via 129 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 63 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 870 tokens] | Bias Score: 0.058115
+ - Summary Point: 1 | Pattern identified via 129 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 63 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 875 tokens] | Bias Score: 0.058291
+ - Summary Point: 1 | Pattern identified via 130 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 63 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 880 tokens] | Bias Score: 0.058291
+ - Summary Point: 1 | Pattern identified via 130 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 63 repetitions.
+ - Summary Point: 3 | Pattern identified via 26 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 885 tokens] | Bias Score: 0.058486
+ - Summary Point: 1 | Pattern identified via 130 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 63 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 890 tokens] | Bias Score: 0.058662
+ - Summary Point: 1 | Pattern identified via 131 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 63 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 895 tokens] | Bias Score: 0.058662
+ - Summary Point: 1 | Pattern identified via 131 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 63 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 900 tokens] | Bias Score: 0.058849
+ - Summary Point: 1 | Pattern identified via 131 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 905 tokens] | Bias Score: 0.058849
+ - Summary Point: 1 | Pattern identified via 131 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 910 tokens] | Bias Score: 0.059200
+ - Summary Point: 1 | Pattern identified via 133 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 915 tokens] | Bias Score: 0.059200
+ - Summary Point: 1 | Pattern identified via 133 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 920 tokens] | Bias Score: 0.059200
+ - Summary Point: 1 | Pattern identified via 133 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 925 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 930 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 935 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 940 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 945 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 950 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 955 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 960 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 965 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 970 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 975 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 980 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 985 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 990 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 995 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1000 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1005 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1010 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1015 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1020 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1025 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1030 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1035 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1040 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1045 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1050 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1055 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1060 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1065 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1070 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1075 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1080 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1085 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1090 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1095 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1100 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1105 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1110 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1115 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1120 tokens] | Bias Score: 0.059375
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: ? | Pattern identified via 19 repetitions.
+
+[Volume: 1125 tokens] | Bias Score: 0.059571
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 20 repetitions.
+
+[Volume: 1130 tokens] | Bias Score: 0.059571
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 20 repetitions.
+
+[Volume: 1135 tokens] | Bias Score: 0.059571
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 20 repetitions.
+
+[Volume: 1140 tokens] | Bias Score: 0.059571
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 20 repetitions.
+
+[Volume: 1145 tokens] | Bias Score: 0.059571
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 20 repetitions.
+
+[Volume: 1150 tokens] | Bias Score: 0.059571
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 20 repetitions.
+
+[Volume: 1155 tokens] | Bias Score: 0.059571
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 20 repetitions.
+
+[Volume: 1160 tokens] | Bias Score: 0.059571
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 20 repetitions.
+
+[Volume: 1165 tokens] | Bias Score: 0.059571
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 20 repetitions.
+
+[Volume: 1170 tokens] | Bias Score: 0.059571
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 20 repetitions.
+
+[Volume: 1175 tokens] | Bias Score: 0.059767
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 21 repetitions.
+
+[Volume: 1180 tokens] | Bias Score: 0.059767
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 21 repetitions.
+
+[Volume: 1185 tokens] | Bias Score: 0.059767
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 21 repetitions.
+
+[Volume: 1190 tokens] | Bias Score: 0.059767
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 21 repetitions.
+
+[Volume: 1195 tokens] | Bias Score: 0.059767
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 21 repetitions.
+
+[Volume: 1200 tokens] | Bias Score: 0.059767
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: and | Pattern identified via 21 repetitions.
+
+[Volume: 1205 tokens] | Bias Score: 0.059767
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: and | Pattern identified via 21 repetitions.
+
+[Volume: 1210 tokens] | Bias Score: 0.059767
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: and | Pattern identified via 21 repetitions.
+
+[Volume: 1215 tokens] | Bias Score: 0.059767
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: and | Pattern identified via 21 repetitions.
+
+[Volume: 1220 tokens] | Bias Score: 0.059767
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: and | Pattern identified via 21 repetitions.
+
+[Volume: 1225 tokens] | Bias Score: 0.059963
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1230 tokens] | Bias Score: 0.059963
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1235 tokens] | Bias Score: 0.059963
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1240 tokens] | Bias Score: 0.059963
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1245 tokens] | Bias Score: 0.059963
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1250 tokens] | Bias Score: 0.059963
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1255 tokens] | Bias Score: 0.059963
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 66 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1260 tokens] | Bias Score: 0.060150
+ - Summary Point: 1 | Pattern identified via 134 repetitions.
+ - Summary Point: 0 | Pattern identified via 67 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1265 tokens] | Bias Score: 0.060500
+ - Summary Point: 1 | Pattern identified via 136 repetitions.
+ - Summary Point: 0 | Pattern identified via 67 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1270 tokens] | Bias Score: 0.060687
+ - Summary Point: 1 | Pattern identified via 136 repetitions.
+ - Summary Point: 0 | Pattern identified via 68 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1275 tokens] | Bias Score: 0.060874
+ - Summary Point: 1 | Pattern identified via 136 repetitions.
+ - Summary Point: 0 | Pattern identified via 69 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1280 tokens] | Bias Score: 0.061247
+ - Summary Point: 1 | Pattern identified via 136 repetitions.
+ - Summary Point: 0 | Pattern identified via 71 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1285 tokens] | Bias Score: 0.061596
+ - Summary Point: 1 | Pattern identified via 138 repetitions.
+ - Summary Point: 0 | Pattern identified via 71 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1290 tokens] | Bias Score: 0.061596
+ - Summary Point: 1 | Pattern identified via 138 repetitions.
+ - Summary Point: 0 | Pattern identified via 71 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1295 tokens] | Bias Score: 0.061968
+ - Summary Point: 1 | Pattern identified via 138 repetitions.
+ - Summary Point: 0 | Pattern identified via 73 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1300 tokens] | Bias Score: 0.061968
+ - Summary Point: 1 | Pattern identified via 138 repetitions.
+ - Summary Point: 0 | Pattern identified via 73 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1305 tokens] | Bias Score: 0.062143
+ - Summary Point: 1 | Pattern identified via 139 repetitions.
+ - Summary Point: 0 | Pattern identified via 73 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1310 tokens] | Bias Score: 0.062514
+ - Summary Point: 1 | Pattern identified via 139 repetitions.
+ - Summary Point: 0 | Pattern identified via 75 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 27 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1315 tokens] | Bias Score: 0.062894
+ - Summary Point: 1 | Pattern identified via 139 repetitions.
+ - Summary Point: 0 | Pattern identified via 76 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1320 tokens] | Bias Score: 0.062894
+ - Summary Point: 1 | Pattern identified via 139 repetitions.
+ - Summary Point: 0 | Pattern identified via 76 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1325 tokens] | Bias Score: 0.063254
+ - Summary Point: 1 | Pattern identified via 140 repetitions.
+ - Summary Point: 0 | Pattern identified via 77 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1330 tokens] | Bias Score: 0.063624
+ - Summary Point: 1 | Pattern identified via 140 repetitions.
+ - Summary Point: 0 | Pattern identified via 79 repetitions.
+ - Summary Point: 2 | Pattern identified via 64 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1335 tokens] | Bias Score: 0.063996
+ - Summary Point: 1 | Pattern identified via 140 repetitions.
+ - Summary Point: 0 | Pattern identified via 80 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1340 tokens] | Bias Score: 0.063996
+ - Summary Point: 1 | Pattern identified via 140 repetitions.
+ - Summary Point: 0 | Pattern identified via 80 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1345 tokens] | Bias Score: 0.064170
+ - Summary Point: 1 | Pattern identified via 141 repetitions.
+ - Summary Point: 0 | Pattern identified via 80 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1350 tokens] | Bias Score: 0.064539
+ - Summary Point: 1 | Pattern identified via 141 repetitions.
+ - Summary Point: 0 | Pattern identified via 82 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1355 tokens] | Bias Score: 0.064713
+ - Summary Point: 1 | Pattern identified via 142 repetitions.
+ - Summary Point: 0 | Pattern identified via 82 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1360 tokens] | Bias Score: 0.065081
+ - Summary Point: 1 | Pattern identified via 142 repetitions.
+ - Summary Point: 0 | Pattern identified via 84 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1365 tokens] | Bias Score: 0.065265
+ - Summary Point: 1 | Pattern identified via 142 repetitions.
+ - Summary Point: 0 | Pattern identified via 85 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1370 tokens] | Bias Score: 0.065632
+ - Summary Point: 1 | Pattern identified via 142 repetitions.
+ - Summary Point: 0 | Pattern identified via 87 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1375 tokens] | Bias Score: 0.065806
+ - Summary Point: 1 | Pattern identified via 143 repetitions.
+ - Summary Point: 0 | Pattern identified via 87 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1380 tokens] | Bias Score: 0.066172
+ - Summary Point: 1 | Pattern identified via 143 repetitions.
+ - Summary Point: 0 | Pattern identified via 89 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1385 tokens] | Bias Score: 0.066529
+ - Summary Point: 1 | Pattern identified via 144 repetitions.
+ - Summary Point: 0 | Pattern identified via 90 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1390 tokens] | Bias Score: 0.066529
+ - Summary Point: 1 | Pattern identified via 144 repetitions.
+ - Summary Point: 0 | Pattern identified via 90 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1395 tokens] | Bias Score: 0.066702
+ - Summary Point: 1 | Pattern identified via 145 repetitions.
+ - Summary Point: 0 | Pattern identified via 90 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1400 tokens] | Bias Score: 0.066702
+ - Summary Point: 1 | Pattern identified via 145 repetitions.
+ - Summary Point: 0 | Pattern identified via 90 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1405 tokens] | Bias Score: 0.066875
+ - Summary Point: 1 | Pattern identified via 146 repetitions.
+ - Summary Point: 0 | Pattern identified via 90 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1410 tokens] | Bias Score: 0.067220
+ - Summary Point: 1 | Pattern identified via 148 repetitions.
+ - Summary Point: 0 | Pattern identified via 90 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1415 tokens] | Bias Score: 0.067403
+ - Summary Point: 1 | Pattern identified via 148 repetitions.
+ - Summary Point: 0 | Pattern identified via 91 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1420 tokens] | Bias Score: 0.067586
+ - Summary Point: 1 | Pattern identified via 148 repetitions.
+ - Summary Point: 0 | Pattern identified via 92 repetitions.
+ - Summary Point: 2 | Pattern identified via 65 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1425 tokens] | Bias Score: 0.067955
+ - Summary Point: 1 | Pattern identified via 148 repetitions.
+ - Summary Point: 0 | Pattern identified via 93 repetitions.
+ - Summary Point: 2 | Pattern identified via 66 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1430 tokens] | Bias Score: 0.068128
+ - Summary Point: 1 | Pattern identified via 149 repetitions.
+ - Summary Point: 0 | Pattern identified via 93 repetitions.
+ - Summary Point: 2 | Pattern identified via 66 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1435 tokens] | Bias Score: 0.068300
+ - Summary Point: 1 | Pattern identified via 150 repetitions.
+ - Summary Point: 0 | Pattern identified via 93 repetitions.
+ - Summary Point: 2 | Pattern identified via 66 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1440 tokens] | Bias Score: 0.068472
+ - Summary Point: 1 | Pattern identified via 151 repetitions.
+ - Summary Point: 0 | Pattern identified via 93 repetitions.
+ - Summary Point: 2 | Pattern identified via 66 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1445 tokens] | Bias Score: 0.068655
+ - Summary Point: 1 | Pattern identified via 151 repetitions.
+ - Summary Point: 0 | Pattern identified via 94 repetitions.
+ - Summary Point: 2 | Pattern identified via 66 repetitions.
+ - Summary Point: 3 | Pattern identified via 28 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1450 tokens] | Bias Score: 0.069031
+ - Summary Point: 1 | Pattern identified via 151 repetitions.
+ - Summary Point: 0 | Pattern identified via 95 repetitions.
+ - Summary Point: 2 | Pattern identified via 66 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1455 tokens] | Bias Score: 0.069203
+ - Summary Point: 1 | Pattern identified via 152 repetitions.
+ - Summary Point: 0 | Pattern identified via 95 repetitions.
+ - Summary Point: 2 | Pattern identified via 66 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1460 tokens] | Bias Score: 0.069375
+ - Summary Point: 1 | Pattern identified via 153 repetitions.
+ - Summary Point: 0 | Pattern identified via 95 repetitions.
+ - Summary Point: 2 | Pattern identified via 66 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1465 tokens] | Bias Score: 0.069744
+ - Summary Point: 1 | Pattern identified via 153 repetitions.
+ - Summary Point: 0 | Pattern identified via 96 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1470 tokens] | Bias Score: 0.069926
+ - Summary Point: 1 | Pattern identified via 153 repetitions.
+ - Summary Point: 0 | Pattern identified via 97 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1475 tokens] | Bias Score: 0.070107
+ - Summary Point: 1 | Pattern identified via 153 repetitions.
+ - Summary Point: 0 | Pattern identified via 98 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1480 tokens] | Bias Score: 0.070279
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 98 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1485 tokens] | Bias Score: 0.070460
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 22 repetitions.
+
+[Volume: 1490 tokens] | Bias Score: 0.070656
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 23 repetitions.
+
+[Volume: 1495 tokens] | Bias Score: 0.070656
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 23 repetitions.
+
+[Volume: 1500 tokens] | Bias Score: 0.070851
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 24 repetitions.
+
+[Volume: 1505 tokens] | Bias Score: 0.070851
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 24 repetitions.
+
+[Volume: 1510 tokens] | Bias Score: 0.070851
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 24 repetitions.
+
+[Volume: 1515 tokens] | Bias Score: 0.071046
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 25 repetitions.
+
+[Volume: 1520 tokens] | Bias Score: 0.071046
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 25 repetitions.
+
+[Volume: 1525 tokens] | Bias Score: 0.071046
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 25 repetitions.
+
+[Volume: 1530 tokens] | Bias Score: 0.071046
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 25 repetitions.
+
+[Volume: 1535 tokens] | Bias Score: 0.071046
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 25 repetitions.
+
+[Volume: 1540 tokens] | Bias Score: 0.071046
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: and | Pattern identified via 25 repetitions.
+
+[Volume: 1545 tokens] | Bias Score: 0.071242
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 26 repetitions.
+
+[Volume: 1550 tokens] | Bias Score: 0.071436
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 27 repetitions.
+
+[Volume: 1555 tokens] | Bias Score: 0.071631
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 28 repetitions.
+
+[Volume: 1560 tokens] | Bias Score: 0.071631
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 67 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 28 repetitions.
+
+[Volume: 1565 tokens] | Bias Score: 0.071818
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 28 repetitions.
+
+[Volume: 1570 tokens] | Bias Score: 0.071818
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 28 repetitions.
+
+[Volume: 1575 tokens] | Bias Score: 0.072013
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 29 repetitions.
+
+[Volume: 1580 tokens] | Bias Score: 0.072013
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 29 repetitions.
+
+[Volume: 1585 tokens] | Bias Score: 0.072013
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 29 repetitions.
+
+[Volume: 1590 tokens] | Bias Score: 0.072013
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 29 repetitions.
+
+[Volume: 1595 tokens] | Bias Score: 0.072013
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 29 repetitions.
+
+[Volume: 1600 tokens] | Bias Score: 0.072013
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 29 repetitions.
+
+[Volume: 1605 tokens] | Bias Score: 0.072013
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 29 repetitions.
+
+[Volume: 1610 tokens] | Bias Score: 0.072013
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 29 repetitions.
+
+[Volume: 1615 tokens] | Bias Score: 0.072013
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 29 repetitions.
+
+[Volume: 1620 tokens] | Bias Score: 0.072013
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 29 repetitions.
+
+[Volume: 1625 tokens] | Bias Score: 0.072013
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+ - Summary Point: the | Pattern identified via 29 repetitions.
+
+[Volume: 1630 tokens] | Bias Score: 0.072207
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 30 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1635 tokens] | Bias Score: 0.072207
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 30 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1640 tokens] | Bias Score: 0.072207
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 30 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1645 tokens] | Bias Score: 0.072207
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 30 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1650 tokens] | Bias Score: 0.072401
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 31 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1655 tokens] | Bias Score: 0.072401
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 31 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1660 tokens] | Bias Score: 0.072401
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 31 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1665 tokens] | Bias Score: 0.072595
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 32 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1670 tokens] | Bias Score: 0.072595
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 32 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1675 tokens] | Bias Score: 0.072789
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 33 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1680 tokens] | Bias Score: 0.072789
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 33 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1685 tokens] | Bias Score: 0.072789
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 33 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1690 tokens] | Bias Score: 0.072789
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 33 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1695 tokens] | Bias Score: 0.072789
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 33 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1700 tokens] | Bias Score: 0.072789
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 33 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1705 tokens] | Bias Score: 0.072789
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 33 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1710 tokens] | Bias Score: 0.072789
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 33 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1715 tokens] | Bias Score: 0.072982
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 34 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1720 tokens] | Bias Score: 0.072982
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 34 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1725 tokens] | Bias Score: 0.072982
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 34 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1730 tokens] | Bias Score: 0.073175
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1735 tokens] | Bias Score: 0.073175
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1740 tokens] | Bias Score: 0.073175
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1745 tokens] | Bias Score: 0.073175
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 29 repetitions.
+
+[Volume: 1750 tokens] | Bias Score: 0.073370
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 30 repetitions.
+
+[Volume: 1755 tokens] | Bias Score: 0.073370
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 30 repetitions.
+
+[Volume: 1760 tokens] | Bias Score: 0.073370
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 30 repetitions.
+
+[Volume: 1765 tokens] | Bias Score: 0.073370
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 30 repetitions.
+
+[Volume: 1770 tokens] | Bias Score: 0.073370
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 30 repetitions.
+
+[Volume: 1775 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1780 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1785 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1790 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1795 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1800 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1805 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1810 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1815 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1820 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1825 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1830 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1835 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1840 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1845 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1850 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1855 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1860 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1865 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1870 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1875 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1880 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1885 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1890 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1895 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1900 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1905 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1910 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1915 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1920 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1925 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1930 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1935 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1940 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1945 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1950 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1955 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1960 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1965 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1970 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1975 tokens] | Bias Score: 0.073564
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 99 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1980 tokens] | Bias Score: 0.073745
+ - Summary Point: 1 | Pattern identified via 154 repetitions.
+ - Summary Point: 0 | Pattern identified via 100 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1985 tokens] | Bias Score: 0.073916
+ - Summary Point: 1 | Pattern identified via 155 repetitions.
+ - Summary Point: 0 | Pattern identified via 100 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1990 tokens] | Bias Score: 0.073916
+ - Summary Point: 1 | Pattern identified via 155 repetitions.
+ - Summary Point: 0 | Pattern identified via 100 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 1995 tokens] | Bias Score: 0.073916
+ - Summary Point: 1 | Pattern identified via 155 repetitions.
+ - Summary Point: 0 | Pattern identified via 100 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 2000 tokens] | Bias Score: 0.074097
+ - Summary Point: 1 | Pattern identified via 155 repetitions.
+ - Summary Point: 0 | Pattern identified via 101 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 2005 tokens] | Bias Score: 0.074097
+ - Summary Point: 1 | Pattern identified via 155 repetitions.
+ - Summary Point: 0 | Pattern identified via 101 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 2010 tokens] | Bias Score: 0.074278
+ - Summary Point: 1 | Pattern identified via 155 repetitions.
+ - Summary Point: 0 | Pattern identified via 102 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 2015 tokens] | Bias Score: 0.074278
+ - Summary Point: 1 | Pattern identified via 155 repetitions.
+ - Summary Point: 0 | Pattern identified via 102 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 2020 tokens] | Bias Score: 0.074459
+ - Summary Point: 1 | Pattern identified via 155 repetitions.
+ - Summary Point: 0 | Pattern identified via 103 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 2025 tokens] | Bias Score: 0.074630
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 103 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 2030 tokens] | Bias Score: 0.074630
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 103 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 31 repetitions.
+
+[Volume: 2035 tokens] | Bias Score: 0.074630
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 103 repetitions.
+ - Summary Point: 2 | Pattern identified via 68 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 31 repetitions.
+
+[Volume: 2040 tokens] | Bias Score: 0.074817
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 103 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 31 repetitions.
+
+[Volume: 2045 tokens] | Bias Score: 0.074817
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 103 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 31 repetitions.
+
+[Volume: 2050 tokens] | Bias Score: 0.074997
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 104 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 31 repetitions.
+
+[Volume: 2055 tokens] | Bias Score: 0.074997
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 104 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 31 repetitions.
+
+[Volume: 2060 tokens] | Bias Score: 0.075177
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 105 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 31 repetitions.
+
+[Volume: 2065 tokens] | Bias Score: 0.075357
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 106 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 31 repetitions.
+
+[Volume: 2070 tokens] | Bias Score: 0.075357
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 106 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 31 repetitions.
+
+[Volume: 2075 tokens] | Bias Score: 0.075537
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 107 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 31 repetitions.
+
+[Volume: 2080 tokens] | Bias Score: 0.075717
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 108 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 31 repetitions.
+
+[Volume: 2085 tokens] | Bias Score: 0.075717
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 108 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 31 repetitions.
+
+[Volume: 2090 tokens] | Bias Score: 0.075897
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 31 repetitions.
+
+[Volume: 2095 tokens] | Bias Score: 0.075897
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 31 repetitions.
+
+[Volume: 2100 tokens] | Bias Score: 0.075897
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 31 repetitions.
+
+[Volume: 2105 tokens] | Bias Score: 0.075897
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: 3 | Pattern identified via 31 repetitions.
+
+[Volume: 2110 tokens] | Bias Score: 0.076090
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 35 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2115 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2120 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2125 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2130 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2135 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2140 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2145 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2150 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2155 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2160 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2165 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2170 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2175 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2180 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2185 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2190 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2195 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2200 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2205 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2210 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2215 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2220 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2225 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2230 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2235 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2240 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2245 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
+
+[Volume: 2250 tokens] | Bias Score: 0.076284
+ - Summary Point: 1 | Pattern identified via 156 repetitions.
+ - Summary Point: 0 | Pattern identified via 109 repetitions.
+ - Summary Point: 2 | Pattern identified via 69 repetitions.
+ - Summary Point: the | Pattern identified via 36 repetitions.
+ - Summary Point: and | Pattern identified via 32 repetitions.
